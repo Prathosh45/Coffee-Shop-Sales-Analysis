@@ -72,5 +72,5 @@ All visuals are fully interactive — selecting a product category dynamically u
 ---
 
 ## 🖼️ Dashboard Preview
-![Coffee Shop Sales Dashboard](images/dashboard_final.png)
+![Coffee Shop Sales Dashboard](dashboard_final.png)
 ---
